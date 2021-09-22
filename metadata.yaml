@@ -1,0 +1,31 @@
+_repo: Sorrow-in-Sunlight_66300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Firbank, Ronald
+    alias: Firbank, Arthur Annesley Ronald
+    birthdate: 1886
+    deathdate: 1926
+    gutenberg_agent_id: '50114'
+    url: http://www.gutenberg.org/2009/agents/50114
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_Firbank
+description: ''
+gutenberg_issued: '2021-09-14'
+identifiers:
+  gutenberg: '66300'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3862766
+pgterms:marc905: 20200414022234firbank
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Tim Lindell, Martin Pettit and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Brentano's Ltd.,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sorrow in Sunlight
+url: http://www.gutenberg.org/ebooks/66300
